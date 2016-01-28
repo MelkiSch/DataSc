@@ -1,4 +1,4 @@
-## Programming Assignment - R programming - Week 2
+## Programming Assignment - R programming - Week 2 (Function1/3)
 
 setwd("Users/melki/DataSc/R-Programming/week2/")
 #getwd()
